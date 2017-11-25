@@ -1,4 +1,4 @@
-package com.mamaGeter.springboot.swaggerexample.resource;
+package com.mamaGeter.springboot.swaggerexample.resource.controller;
 
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;

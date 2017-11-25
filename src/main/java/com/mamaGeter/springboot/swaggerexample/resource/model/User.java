@@ -1,4 +1,4 @@
-package com.mamaGeter.springboot.swaggerexample.resource;
+package com.mamaGeter.springboot.swaggerexample.resource.model;
 
 import io.swagger.annotations.ApiModelProperty;
 import org.springframework.web.bind.annotation.RequestMapping;
